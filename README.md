@@ -5,4 +5,4 @@ This repo implements a novel approach to shielding for autonomous agents (curren
 "source set setLxSHPYTHONPATH"  
 "pip install -r requirements.txt"  
 "cd src"  
-"python experiment.py" (Trains the model. To run a trained model, add "--mode run <experiment id>")
+"python experiment.py" (Trains the model. To run a trained model, add "--mode run \<experiment id\>")
