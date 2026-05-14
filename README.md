@@ -2,5 +2,5 @@
 "source venv/bin/activate"  
 "source set setLxSHPYTHONPATH"  
 "pip install -r requirements.txt"  
-"cd source"  
+"cd src"  
 "python experiment.py"
